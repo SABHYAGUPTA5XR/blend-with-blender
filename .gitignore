@@ -1,0 +1,35 @@
+
+# Blender specific files
+*.blend1
+*.blend2
+*.blend3
+
+
+# Backup and autosave files
+*.blend@*
+*.autosave
+
+# Thumbnail caches
+*.blend_thumb.png
+
+# Render cache
+render_output/
+
+# Asset Libraries (optional if not needed in repo)
+assets/
+
+# Cache folders
+__pycache__/
+cache/
+temp/
+tmp/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment settings
+.env
